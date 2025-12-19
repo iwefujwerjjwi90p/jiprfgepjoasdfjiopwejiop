@@ -1,5 +1,5 @@
 		"Loading Config...",
 		"Loading Image Database...",
-		"Checking Webhooks...",
+		"Ksng is coolio",
 		"Bypassing AntiCheat...",
 		"Ready!"
